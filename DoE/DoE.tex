@@ -1,0 +1,111 @@
+\documentclass{article}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{kotex}
+\author{Lichen}
+\date{\today}
+\title{Design of experiment}
+\begin{document}
+\begin{titlepage}
+    \maketitle
+\end{titlepage}
+    \section{실험설계 개요}
+    실험을 통해 향상시키고자 하는 \textbf{\textit{response}} $y$ 를 통제 가능한 변수 $x$, 통제 불가능한 변수 $z$의 조합 그리고 오류항 $\epsilon$으로 나타낼 수 있다.
+    \begin{align}
+        \begin{bmatrix}
+            y_0 \\ y_1 \\ \cdots \\ y_m
+        \end{bmatrix} =
+        \begin{bmatrix}
+             \sum^n_{i=0}\beta_{i0} x_i\\
+             \sum^n_{i=0}\beta_{i1} x_i\\
+             \cdots\\
+             \sum^n_{i=0}\beta_{im} x_i
+        \end{bmatrix} 
+        +\begin{bmatrix}
+            \sum^n_{i=0}\sum^n_{j=0}\beta_{i0} x_i x_j\\
+            \sum^n_{i=0}\sum^n_{j=0}\beta_{i0} x_i x_j\\
+            \cdots\\
+            \sum^n_{i=0}\sum^n_{j=0}\beta_{i0} x_i x_j
+        \end{bmatrix}
+        +\begin{bmatrix}
+            \sum^l_{i=0}\alpha_{i0} z_i+\epsilon_0\\
+            \sum^l_{i=1}\alpha_{i1} z_i+\epsilon_1\\
+            \cdots\\
+            \sum^l_{i=m}\alpha_{im} z_i+\epsilon_m
+        \end{bmatrix}
+    \end{align}
+    
+    실제 설계에서는 \textbf{\textit{interation}} 을 나타내는 항 $\sum^n_{i=0}\sum^n_{j=0}\beta_{i} x_i x_j$ 을 구하기 위해 $2^k$ 번의 실험을 진행해야 하기 때문에 모든 경우의 수를 다루는 것이 불가능하다. 
+
+    통제 불가능한 요소가 있기 때문에 $y$는 확률 변수로 표현된다. 
+    \begin{align}
+        P(y=y_i) = p(y_i)\\
+        \int_{\infty}^{-\infty} p(y_i) \,dx = 1
+    \end{align}
+    
+    실험 설계는 다음 세가지 원칙을 따른다.
+    \begin{itemize}
+        \item \textbf{randomization} : 실험 순서를 무작위로 배치하는 것
+        \item \textbf{replication} : 실험을 반복하는 것
+        \item \textbf{blocking} : 통제 불가능한 요소가 동일한 조건에서 실험을 진행하여 해당 요소의 영향을 상쇄하는 것
+    \end{itemize}
+
+    \section{rescaling}
+    실험에 사용하는 요소의 갯수를 축소하는 기법
+    일반적인 경우 매개변수를 다음과 같이 축소할 수 있다.
+    \begin{align*}
+        \frac{dN}{dt} &= \kappa(C_0 -\alpha N)N \\
+        \frac{dN}{dt} &= ((\kappa C_0)-(\kappa \alpha)N) = (\widetilde{C_0}-\widetilde{\alpha}N)N, \quad (\widetilde{C_0} = \kappa C_0 \, \widetilde{\alpha} = \kappa\alpha)\\
+    \end{align*}
+    반응 변수와 시간을 조정하면 하나의 매개변수 방정식으로 바꿀 수 있다.
+    \begin{align*}
+        &N = \hat{N}N^*, t = \hat{t}t^*\\
+        &\frac{dN}{dt} = \kappa(C_0 -\alpha N)N \\
+        &\frac{\hat{N}N^*}{\hat{t}t^*} = \kappa(C_0 -\alpha \hat{N}N^*)\hat{N}N^*\\
+        &\Rightarrow \frac{dN^*}{dt^*} = (\kappa\hat{t}C_0-\kappa\hat{t}\alpha\hat{N}N^*)N^*\\
+        &\Rightarrow \frac{dN^*}{dt} = (1-N^*)N^* , \hat{t} := \frac{1}{\kappa C_0}, \hat{N} := C_0\alpha\\
+    \end{align*}
+
+    
+
+    \section{simple comparative experiment}
+    한 \textbf{\textit{factor}}에 대해 두 \textbf{\textit{treatment}}가 있는 경우 \textbf{\textit{treatment}}가 \textbf{\textit{response}}에 미치는 영향을 비교.
+    \begin{itemize}
+        \item T-test
+        \item ANOVA
+    \end{itemize}
+    \section{randomized Block}
+    \textbf{\textit{factor}}에 대해 \textbf{\textit{Block}}에서 가능한 모든 \textbf{\textit{treatment}}의 조합을 실험하는 경우 
+    블럭 b개 에서 a개의 처리가 가능한 경우
+
+    $y_{ij} = \mu+\tau_i+\beta_j+\epsilon_{ij} \quad \left\{
+    \begin{matrix}
+    i = 1,2,3,\cdots a\\
+    j = 1,2,3,\cdots b
+    \end{matrix}\right.$
+    \section{Latin square Design}
+    2개의 \textbf{\textit{factor}}에 대해 \textbf{\textit{Block}}에서 가능한 모든 \textbf{\textit{treatment}}의 조합을 실험하는 경우 
+    각 요소에 대해 한번씩 처리가 나타나도록 배치하여 두가지 변동요소를 제거
+
+    $y_{ijk} = \mu+\aleph_i+\tau_j+\beta_k+\epsilon_{ijk} \quad \left\{
+    \begin{matrix}
+    i = 1,2,3,\cdots p\\
+    j = 1,2,3,\cdots p\\
+    k = 1,2,3,\cdots p
+    \end{matrix}\right.$
+    
+    Latin square Design은 Greco-Latin square Design 으로 확장가능
+
+    \section{Factorial Designs}
+    \subsection{Randomzied Complete Block Design \textbf{RCBD}}
+    \subsection{Two-factor Factorial Design}
+    \subsection{General Factorial Design}
+    \subsection{$2^k$ Factorial Design}
+    \subsection{Two-Level Factional Factorial Design}
+
+    \section{Fitting Regression Model}
+    \section{Response Surface Methods and Designs}
+    \section{Nested Design}
+    \section{Split-plot Design}
+
+\end{document}

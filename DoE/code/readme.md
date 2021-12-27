@@ -5,8 +5,7 @@ https://docs.conda.io/en/latest/miniconda.html
 
 miniconda 설치후 code 폴더로 이동해서 다음 명령어를 사용해 환경을 설치하여 개발 환경을 공유할 수 있습니다.
 ```
-conda install -f env.yml
-conda activate doe
+conda install -c conda-forge scipy anndata matplotlib
 ```
 ## numpy
 numpy는 python에서 선형대수를 사용할 수 있도록 하는 패키지입니다. 

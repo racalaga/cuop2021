@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1640586970 "d:/Users/raca/Desktop/cuop2021/study/DoE.tex" "DoE.pdf" "DoE" 1640586972
-  "C:/Users/raca/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1640163043 137536 a374ab27a0acce223f848abf18a74b25 ""
+["pdflatex"] 1640670595 "d:/Users/raca/Desktop/cuop2021/study/DoE.tex" "DoE.pdf" "DoE" 1640670596
+  "C:/Users/raca/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1640664050 137536 a374ab27a0acce223f848abf18a74b25 ""
   "C:/Users/raca/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1640057606 11548 df204554c2d791d6cec60bf03e06e802 ""
   "C:/Users/raca/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1640073934 9769494 efbbc4fcd04535f93cd8d17c23cad5e4 ""
   "C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
@@ -136,9 +136,9 @@
   "C:/Users/raca/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1639465870 29971 0fb19a39718d289d512ef2f074f16cc2 ""
   "C:/Users/raca/AppData/Local/Programs/MiKTeX/tex/latex/nanumtype1/lucnanummj.fd" 1361513724 606 98e762485af72dfce2b68e2919fca6ec ""
   "C:/Users/raca/AppData/Local/Programs/MiKTeX/tex/plain/kotex-plain/kotexutf-core.tex" 1444722538 21208 e360f57835b2ac285fa5dae58aee69f2 ""
-  "DoE.aux" 1640586971 1734 ae81333d4965e56d3916c61f2f3e665c "pdflatex"
-  "DoE.tex" 1640585538 4760 84c4949737e42ba4e1adb9e0c5c30543 ""
-  "d:/Users/raca/Desktop/cuop2021/study/DoE.tex" 1640585538 4760 84c4949737e42ba4e1adb9e0c5c30543 ""
+  "DoE.aux" 1640670596 1734 009e8aea107dc485b848ef97ed75dc2d "pdflatex"
+  "DoE.tex" 1640670593 5778 e245ada79f56f33b9884166a76149963 ""
+  "d:/Users/raca/Desktop/cuop2021/study/DoE.tex" 1640670593 5778 e245ada79f56f33b9884166a76149963 ""
   (generated)
   "DoE.aux"
   "DoE.log"

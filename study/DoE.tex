@@ -5,12 +5,13 @@
 \author{Lichen}
 \date{\today}
 \title{Design of experiment}
+\newcommand{\imp}[1]{\textbf{\textit{#1}}}
 \begin{document}
 \begin{titlepage}
     \maketitle
 \end{titlepage}
     \section{실험설계 개요}
-    실험을 통해 향상시키고자 하는 \textbf{\textit{response}} $y$ 를 통제 가능한 변수 $x$, 통제 불가능한 변수 $z$의 조합 그리고 오류항 $\epsilon$으로 나타낼 수 있다.
+    실험을 통해 향상시키고자 하는 \imp{response} $y$ 를 통제 가능한 변수 $x$, 통제 불가능한 변수 $z$의 조합 그리고 오류항 $\epsilon$으로 나타낼 수 있다.
     \begin{align}
         \begin{bmatrix}
             y_0 \\ y_1 \\ \cdots \\ y_m
@@ -35,7 +36,7 @@
         \end{bmatrix}
     \end{align}
     
-    실제 설계에서는 \textbf{\textit{interation}} 을 나타내는 항 $\sum^n_{i=0}\sum^n_{j=0}\beta_{i} x_i x_j$ 을 구하기 위해 $2^k$ 번의 실험을 진행해야 하기 때문에 모든 경우의 수를 다루는 것이 불가능하다. 
+    실제 설계에서는 \imp{interation} 을 나타내는 항 $\sum^n_{i=0}\sum^n_{j=0}\beta_{i} x_i x_j$ 을 구하기 위해 $2^k$ 번의 실험을 진행해야 하기 때문에 모든 경우의 수를 다루는 것이 불가능하다. 
 
     통제 불가능한 요소가 있기 때문에 $y$는 확률 변수로 표현된다. 
     \begin{align}
@@ -66,16 +67,35 @@
         &\Rightarrow \frac{dN^*}{dt} = (1-N^*)N^* , \hat{t} := \frac{1}{\kappa C_0}, \hat{N} := C_0\alpha\\
     \end{align*}
 
-    
-
     \section{simple comparative experiment}
-    한 \textbf{\textit{factor}}에 대해 두 \textbf{\textit{treatment}}가 있는 경우 \textbf{\textit{treatment}}가 \textbf{\textit{response}}에 미치는 영향을 비교.
+    한 \imp{factor}에 대해 두 \imp{treatment}가 있는 경우 \imp{treatment}가 \imp{response}에 미치는 영향을 비교.
+    \begin{itemize}
+        \item \imp{Mean : $\mu$} = $\int^\infty_{-\infty} yf(y)\,dy = E\left(y\right)$
+        \item \imp{Variance : $\sigma^2$} =  $\int^\infty_{-\infty} (y-\mu)^2f(y)\,dy = E\left[(y-\mu)^2\right] = V(y)$
+        \item \imp{Cov} : $Cov(y_1,y_2) = E\left[(y_1-\mu_1)(y_2-\mu_2)\right]$
+        \item $\mu^2+\sigma^2=\sum^n_{i=1}y^2_i$
+    \end{itemize}
+    \imp{sample mean} 과 \imp{sample variance}는 모집단에서 추출한 \imp{random sample}으로 가정. 
+    \begin{align*}
+        \text{sample mean} = \bar{y} &= \frac{\sum^n_{i=1}y_i}{n}\\
+        \text{sample variance} = S^2 &= \frac{\sum^n_{i=1}(y_i-\bar{y})^2}{n-1}\\
+        E(\bar{y}) &= E\left(\frac{\sum^n_{i=1}y_i}{n}\right)\\
+        &=\mu\\
+        E(S^2) &= E\left[\frac{\sum^n_{i=1}(y-\bar{y})^2}{n-1}\right]\\
+        &=\frac{1}{n-1}E(SS)\\
+        E(SS) &= E\left[\sum^n_{i=1}(y_i-\bar{y})^2\right]\\
+        &= E\left[\sum^n_{i=1}y^2_i-n\bar{y}^2\right]\\
+        &= (n-1)\mu^2\\
+        E(S^2)&=\frac{1}{n-1}E(SS)=\mu^2
+    \end{align*}
+    \imp{Degree of Freedom}은 독립인 요소의 수로 결정됨. $E(SS)=v\sigma^2$
     \begin{itemize}
         \item T-test
         \item ANOVA
     \end{itemize}
+
     \section{randomized Block}
-    \textbf{\textit{factor}}에 대해 \textbf{\textit{Block}}에서 가능한 모든 \textbf{\textit{treatment}}의 조합을 실험하는 경우 
+    \imp{factor}에 대해 \imp{Block}에서 가능한 모든 \imp{treatment}의 조합을 실험하는 경우 
     블럭 b개 에서 a개의 처리가 가능한 경우
 
     $y_{ij} = \mu+\tau_i+\beta_j+\epsilon_{ij} \quad \left\{
@@ -84,10 +104,10 @@
     j = 1,2,3,\cdots b
     \end{matrix}\right.$
     \section{Latin square Design}
-    2개의 \textbf{\textit{factor}}에 대해 \textbf{\textit{Block}}에서 가능한 모든 \textbf{\textit{treatment}}의 조합을 실험하는 경우 
+    2개의 \imp{factor}에 대해 \imp{Block}에서 가능한 모든 \imp{treatment}의 조합을 실험하는 경우 
     각 요소에 대해 한번씩 처리가 나타나도록 배치하여 두가지 변동요소를 제거
 
-    $y_{ijk} = \mu+\aleph_i+\tau_j+\beta_k+\epsilon_{ijk} \quad \left\{
+    $y_{ijk} = \mu+\alpha_i+\tau_j+\beta_k+\epsilon_{ijk} \quad \left\{
     \begin{matrix}
     i = 1,2,3,\cdots p\\
     j = 1,2,3,\cdots p\\

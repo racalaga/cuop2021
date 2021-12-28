@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex doe"] 1640593269 "doe.aux" "doe.bbl" "doe" 1640593489
+["bibtex doe"] 1640593269 "doe.aux" "doe.bbl" "doe" 1640663888
   "1.bib" 1640590931 779 7154efbb2369c94dc5db05c680325c41 ""
   "C:/Users/raca/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "doe.aux" 1640593488 1489 83404e22226c35db4817a6751c44de89 "pdflatex"
+  "doe.aux" 1640663887 1489 83404e22226c35db4817a6751c44de89 "pdflatex"
   (generated)
   "doe.bbl"
   "doe.blg"
-["pdflatex"] 1640593487 "d:/Users/raca/Desktop/cuop2021/DoE/doe.tex" "doe.pdf" "doe" 1640593489
+["pdflatex"] 1640663886 "d:/Users/raca/Desktop/cuop2021/DoE/doe.tex" "doe.pdf" "doe" 1640663888
   "C:/Users/raca/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1640163043 137536 a374ab27a0acce223f848abf18a74b25 ""
   "C:/Users/raca/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1640057606 11548 df204554c2d791d6cec60bf03e06e802 ""
   "C:/Users/raca/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1640073934 9769494 efbbc4fcd04535f93cd8d17c23cad5e4 ""
@@ -142,10 +142,10 @@
   "C:/Users/raca/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1639465870 29971 0fb19a39718d289d512ef2f074f16cc2 ""
   "C:/Users/raca/AppData/Local/Programs/MiKTeX/tex/latex/nanumtype1/lucnanummj.fd" 1361513724 606 98e762485af72dfce2b68e2919fca6ec ""
   "C:/Users/raca/AppData/Local/Programs/MiKTeX/tex/plain/kotex-plain/kotexutf-core.tex" 1444722538 21208 e360f57835b2ac285fa5dae58aee69f2 ""
-  "d:/Users/raca/Desktop/cuop2021/DoE/doe.tex" 1640593486 5429 cf90438475b0f1f5db448179d82351ee ""
-  "doe.aux" 1640593488 1489 83404e22226c35db4817a6751c44de89 "pdflatex"
+  "d:/Users/raca/Desktop/cuop2021/DoE/doe.tex" 1640663884 5470 bc05ca3a7cb46d45e0fa66e0e321b448 ""
+  "doe.aux" 1640663887 1489 83404e22226c35db4817a6751c44de89 "pdflatex"
   "doe.bbl" 1640593269 648 fe554ba8a3c45b20bf8193c02ca2484e "bibtex doe"
-  "doe.tex" 1640593486 5429 cf90438475b0f1f5db448179d82351ee ""
+  "doe.tex" 1640663884 5470 bc05ca3a7cb46d45e0fa66e0e321b448 ""
   "fatorial design.jpg" 1640591389 119530 cfe4805ae63f6171b0c2efdbb13011d6 ""
   "fd.jpg" 1640591833 122107 c51bbcb3e936eb7bdf3cb0074a7b8b67 ""
   "reactionsurfae.jpg" 1640590092 180786 e160873c1c1b507d5ae559ded17862ef ""

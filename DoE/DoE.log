@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2021.12.21)  27 DEC 2021 17:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2021.12.21)  28 DEC 2021 12:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -176,26 +176,26 @@ File: l3backend-pdftex.def 2021-12-14 L3 backend support: PDF output (pdfTeX)
 ) (doe.aux)
 \openout1 = `doe.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for LUC/nanummj/m/n on input line 9.
-LaTeX Font Info:    Trying to load font information for LUC+nanummj on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for LUC/nanummj/m/n on input line 10.
+LaTeX Font Info:    Trying to load font information for LUC+nanummj on input line 10.
  (C:\Users\raca\AppData\Local\Programs\MiKTeX\tex/latex/nanumtype1\lucnanummj.fd
 File: lucnanummj.fd 2013/02/12 v0.1 Nanum Myeongjo font definitions
 )
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    ... okay on input line 10.
  (C:\Users\raca\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count272
@@ -215,42 +215,42 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\raca\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Font Info:    Trying to load font information for U+msa on input line 11.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 12.
  (C:\Users\raca\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 11.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 12.
  (C:\Users\raca\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 {C:/Users/raca/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Overfull \hbox (60.05797pt too wide) in paragraph at lines 14--14
+Overfull \hbox (60.05797pt too wide) in paragraph at lines 15--15
 []\OT1/cmr/bx/n/14.4 Bioprocess Op-ti-miza-tion Us-ing Design-of-Experiments
  []
 
 <surface.jpg, id=8, 722.7pt x 344.7279pt>
 File: surface.jpg Graphic file (type jpg)
 <use surface.jpg>
-Package pdftex.def Info: surface.jpg  used on input line 18.
+Package pdftex.def Info: surface.jpg  used on input line 19.
 (pdftex.def)             Requested size: 216.81166pt x 103.41916pt.
 <fatorial design.jpg, id=9, 722.7pt x 703.9098pt>
 File: fatorial design.jpg Graphic file (type jpg)
 <use fatorial design.jpg>
-Package pdftex.def Info: fatorial design.jpg  used on input line 20.
+Package pdftex.def Info: fatorial design.jpg  used on input line 21.
 (pdftex.def)             Requested size: 144.53743pt x 140.77946pt.
 <fd.jpg, id=10, 457.4691pt x 754.4988pt>
 File: fd.jpg Graphic file (type jpg)
 <use fd.jpg>
-Package pdftex.def Info: fd.jpg  used on input line 29.
+Package pdftex.def Info: fd.jpg  used on input line 30.
 (pdftex.def)             Requested size: 137.24179pt x 226.35138pt.
 [1 <./surface.jpg> <./fatorial design.jpg>] [2 <./fd.jpg>]
-Overfull \hbox (4.19118pt too wide) in paragraph at lines 32--32
+Overfull \hbox (4.19118pt too wide) in paragraph at lines 33--33
 []\OT1/cmr/bx/n/14.4 Evaluation and op-ti-miza-tion of hep-a-to-cyte cul-
  []
 
 
-Overfull \hbox (48.8758pt too wide) in paragraph at lines 44--61
+Overfull \hbox (48.8758pt too wide) in paragraph at lines 45--62
  [] 
  []
 
@@ -267,15 +267,15 @@ Package pdftex.def Info: reactionsurfae.jpg  used on input line 94.
 (pdftex.def)             Requested size: 179.77301pt x 189.10796pt.
  [4 <./variance.jpg>] (doe.bbl) [5 <./reactionsurfae.jpg>] (doe.aux) ) 
 Here is how much of TeX's memory you used:
- 3061 strings out of 478659
- 47025 string characters out of 2846393
- 367442 words of memory out of 3000000
- 21090 multiletter control sequences out of 15000+600000
+ 3062 strings out of 478659
+ 47028 string characters out of 2846393
+ 366452 words of memory out of 3000000
+ 21091 multiletter control sequences out of 15000+600000
  422165 words of font info for 95 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,6n,62p,574b,224s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\raca\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmac.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmad.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmae.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmaf.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmb2.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmb3.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmb4.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmb5.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmb6.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmb7.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmb8.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmb9.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmba.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmbb.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmbc.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmbd.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmbf.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmc0.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmc1.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmc2.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmc5.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmc6.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmc7.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmc8.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmc9.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmcc.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmcd.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmce.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmd0.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmd1.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmd2.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmd3.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmd4.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmd5.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmd6.pfb>
-Output written on doe.pdf (6 pages, 2378233 bytes).
+Output written on doe.pdf (6 pages, 2378251 bytes).
 PDF statistics:
  251 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

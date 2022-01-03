@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1641178871 "/Users/raca/Desktop/cuop2021/jmp-minitab/intro.tex" "intro.pdf" "intro" 1641178873
+["pdflatex"] 1641178927 "/Users/raca/Desktop/cuop2021/jmp-minitab/intro.tex" "intro.pdf" "intro" 1641178929
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1640790460 1436 c7f957a372ef2fbe93c0982f96625e12 ""
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1640790425 1004 54797486969f23fa377b128694d548df ""
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1640790425 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -35,7 +35,7 @@
   "/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty" 1640790460 2671 4de6781a30211fe0ea4c672e4a2a8166 ""
   "/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty" 1640790460 4009 187ea2dc3194cd5a76cd99a8d7a6c4d0 ""
   "/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def" 1640790462 29971 0fb19a39718d289d512ef2f074f16cc2 ""
-  "/Users/raca/Desktop/cuop2021/jmp-minitab/intro.tex" 1641178870 2926 ab119d6d374c4190cc81b25e77e2bc14 ""
+  "/Users/raca/Desktop/cuop2021/jmp-minitab/intro.tex" 1641178926 2928 fe623bf8920578af6f9757b5e9879117 ""
   "/Users/raca/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map" 1641172400 120859 5052ccc648ae789802b5c881873040f5 ""
   "/Users/raca/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1640791397 11548 1f42e9869afab2b1163c68b8cfbad3a5 ""
   "/Users/raca/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1640791232 6553994 65f361deb622d4716f9fd7fe5c10e006 ""
@@ -129,8 +129,8 @@
   "box-behnken.png" 1641177850 66389 6a6ae423c3bc549cb3dc285402a9994e ""
   "boxbenhken.png" 1641178512 206488 3dafc82eb3fdc589c65968ccb2a1eb8b ""
   "fatorial design.jpg" 1641174114 119530 3fbc67b3ee4be8f8cc6ed63ab51ffb59 ""
-  "intro.aux" 1641178872 880 c1d5ebbaa625fc5e38a4b6db7fc0b967 "pdflatex"
-  "intro.tex" 1641178870 2926 ab119d6d374c4190cc81b25e77e2bc14 ""
+  "intro.aux" 1641178928 880 24f4b5245d59691e9815e92049d2a5d3 "pdflatex"
+  "intro.tex" 1641178926 2928 fe623bf8920578af6f9757b5e9879117 ""
   "jmp2level.png" 1641178512 64925 399f8d496055b7e7ea328412273cbc6f ""
   "jmpdescretic.png" 1641178512 101085 ef77429703b7506842e2a57afa30a735 ""
   "min2.png" 1641177924 59789 653f17b1be38062997fa437d1714bd9c ""

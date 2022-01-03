@@ -1,14 +1,14 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2021.12.21)  28 DEC 2021 12:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2021.12.30)  3 JAN 2022 09:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/Users/raca/Desktop/cuop2021/DoE/doe.tex
-(d:/Users/raca/Desktop/cuop2021/DoE/doe.tex
+**/Users/raca/Desktop/cuop2021/DoE/DoE.tex
+(/Users/raca/Desktop/cuop2021/DoE/DoE.tex
 LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2021-11-22> (C:\Users\raca\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+L3 programming layer <2021-11-22> (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
-(C:\Users\raca\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/size10.clo
 File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count183
@@ -22,21 +22,21 @@ File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
-) (C:\Users\raca\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2021/10/15 v2.17l AMS math features
 \@mathmargin=\skip49
 
 For additional information on amsmath, use the `?' option.
-(C:\Users\raca\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
- (C:\Users\raca\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks16
 \ex@=\dimen139
-)) (C:\Users\raca\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+)) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen140
-) (C:\Users\raca\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2021/08/26 v2.02 operator names
 )
 \inf@bad=\count191
@@ -76,48 +76,48 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 \mathdisplay@stack=\toks20
 LaTeX Info: Redefining \[ on input line 2938.
 LaTeX Info: Redefining \] on input line 2939.
-) (C:\Users\raca\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
- (C:\Users\raca\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (C:\Users\raca\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+)) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (C:\Users\raca\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks21
-) (C:\Users\raca\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
 Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
- (C:\Users\raca\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (C:\Users\raca\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
- (C:\Users\raca\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen148
 \Gin@req@width=\dimen149
-) (C:\Users\raca\AppData\Local\Programs\MiKTeX\tex/latex/cjk-ko\kotex.sty
+) (/Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cjk-ko/kotex.sty
 Package: kotex 2015/04/19 v1.6 Korean TeX (ko.TeX)
- (C:\Users\raca\AppData\Local\Programs\MiKTeX\tex/latex/kotex-utf\kotex.cfg) (C:\Users\raca\AppData\Local\Programs\MiKTeX\tex/latex/kotex-utf\kotexutf.sty
+ (/Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kotex-utf/kotex.cfg) (/Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kotex-utf/kotexutf.sty
 Package: kotexutf 2015/07/18 v2.1.1 typesetting UTF-8 Korean documents
- (C:\Users\raca\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks22
 \inpenc@posthook=\toks23
-) (C:\Users\raca\AppData\Local\Programs\MiKTeX\tex/plain/kotex-plain\kotexutf-core.tex
+) (/Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/plain/kotex-plain/kotexutf-core.tex
 \unih@ngulpoint=\count269
 \dhucs@emph@raise=\dimen150
 )
 Now handling font encoding LUC ...
 ... processing UTF-8 mapping file for font encoding LUC
- (C:\Users\raca\AppData\Local\Programs\MiKTeX\tex/latex/kotex-utf\lucenc.dfu
+ (/Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kotex-utf/lucenc.dfu
 File: lucenc.dfu 2007/09/05 UTF-8 support for dhucs
    defining Unicode char U+00B7 (decimal 183)
    defining Unicode char U+2018 (decimal 8216)
@@ -167,14 +167,14 @@ File: lucenc.dfu 2007/09/05 UTF-8 support for dhucs
 )
 \@josa=\count270
 \josatoks=\toks24
- (C:\Users\raca\AppData\Local\Programs\MiKTeX\tex/latex/cjk-ko\kolabels-utf.sty
+ (/Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cjk-ko/kolabels-utf.sty
 Package: kolabels-utf 2015/03/20 v1.5 UTF-8 Hangul item labels
-))) (C:\Users\raca\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+))) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-12-14 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count271
 \l__pdf_internal_box=\box52
-) (doe.aux)
-\openout1 = `doe.aux'.
+) (DoE.aux)
+\openout1 = `DoE.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
@@ -192,11 +192,11 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for LUC/nanummj/m/n on input line 10.
 LaTeX Font Info:    Trying to load font information for LUC+nanummj on input line 10.
- (C:\Users\raca\AppData\Local\Programs\MiKTeX\tex/latex/nanumtype1\lucnanummj.fd
+ (/Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/nanumtype1/lucnanummj.fd
 File: lucnanummj.fd 2013/02/12 v0.1 Nanum Myeongjo font definitions
 )
 LaTeX Font Info:    ... okay on input line 10.
- (C:\Users\raca\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count272
 \scratchdimen=\dimen151
@@ -209,24 +209,24 @@ LaTeX Font Info:    ... okay on input line 10.
 \MPnumerator=\count276
 \makeMPintoPDFobject=\count277
 \everyMPtoPDFconversion=\toks26
-) (C:\Users\raca\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (C:\Users\raca\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 LaTeX Font Info:    Trying to load font information for U+msa on input line 12.
- (C:\Users\raca\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 12.
- (C:\Users\raca\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{C:/Users/raca/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+{/Users/raca/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map}]
 Overfull \hbox (60.05797pt too wide) in paragraph at lines 15--15
-[]\OT1/cmr/bx/n/14.4 Bioprocess Op-ti-miza-tion Us-ing Design-of-Experiments
+[]\OT1/cmr/bx/n/14.4 Bioprocess Optimization Using Design-of-Experiments
  []
 
 <surface.jpg, id=8, 722.7pt x 344.7279pt>
@@ -245,8 +245,8 @@ File: fd.jpg Graphic file (type jpg)
 Package pdftex.def Info: fd.jpg  used on input line 30.
 (pdftex.def)             Requested size: 137.24179pt x 226.35138pt.
 [1 <./surface.jpg> <./fatorial design.jpg>] [2 <./fd.jpg>]
-Overfull \hbox (4.19118pt too wide) in paragraph at lines 33--33
-[]\OT1/cmr/bx/n/14.4 Evaluation and op-ti-miza-tion of hep-a-to-cyte cul-
+Overfull \hbox (28.09949pt too wide) in paragraph at lines 33--33
+[]\OT1/cmr/bx/n/14.4 Evaluation and optimization of hepatocyte culture
  []
 
 
@@ -265,17 +265,17 @@ File: reactionsurfae.jpg Graphic file (type jpg)
 <use reactionsurfae.jpg>
 Package pdftex.def Info: reactionsurfae.jpg  used on input line 94.
 (pdftex.def)             Requested size: 179.77301pt x 189.10796pt.
- [4 <./variance.jpg>] (doe.bbl) [5 <./reactionsurfae.jpg>] (doe.aux) ) 
+ [4 <./variance.jpg>] (DoE.bbl) [5 <./reactionsurfae.jpg>] (DoE.aux) ) 
 Here is how much of TeX's memory you used:
- 3062 strings out of 478659
- 47028 string characters out of 2846393
- 366452 words of memory out of 3000000
- 21091 multiletter control sequences out of 15000+600000
+ 3059 strings out of 480594
+ 47595 string characters out of 2896390
+ 361668 words of memory out of 3000000
+ 20849 multiletter control sequences out of 15000+600000
  422165 words of font info for 95 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 56i,6n,62p,574b,224s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\raca\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmac.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmad.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmae.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmaf.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmb2.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmb3.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmb4.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmb5.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmb6.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmb7.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmb8.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmb9.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmba.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmbb.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmbc.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmbd.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmbf.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmc0.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmc1.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmc2.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmc5.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmc6.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmc7.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmc8.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmc9.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmcc.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmcd.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmce.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmd0.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmd1.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmd2.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmd3.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmd4.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmd5.pfb><C:/Users/raca/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmd6.pfb>
-Output written on doe.pdf (6 pages, 2378251 bytes).
+ 0 hyphenation exceptions out of 8191
+ 56i,6n,62p,572b,224s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </Users/raca/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb></Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmac.pfb></Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmad.pfb></Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmae.pfb></Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmaf.pfb></Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmb2.pfb></Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmb3.pfb></Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmb4.pfb></Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmb5.pfb></Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmb6.pfb></Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmb7.pfb></Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmb8.pfb></Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmb9.pfb></Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmba.pfb></Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmbb.pfb></Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmbc.pfb></Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmbd.pfb></Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmbf.pfb></Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmc0.pfb></Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmc1.pfb></Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmc2.pfb></Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmc5.pfb></Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmc6.pfb></Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmc7.pfb></Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmc8.pfb></Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmc9.pfb></Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmcc.pfb></Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmcd.pfb></Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmce.pfb></Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmd0.pfb></Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmd1.pfb></Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmd2.pfb></Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmd3.pfb></Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmd4.pfb></Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmd5.pfb></Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmd6.pfb>
+Output written on DoE.pdf (6 pages, 2378263 bytes).
 PDF statistics:
  251 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

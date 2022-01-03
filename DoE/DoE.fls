@@ -1,454 +1,454 @@
-PWD d:\Users\raca\Desktop\cuop2021\DoE
-INPUT C:\Users\raca\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT d:\Users\raca\Desktop\cuop2021\DoE\doe.tex
-OUTPUT doe.log
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\cjk-ko\kotex.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\cjk-ko\kotex.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\cjk-ko\kotex.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\cjk-ko\kotex.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\cjk-ko\kotex.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\cjk-ko\kotex.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\cjk-ko\kotex.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\cjk-ko\kotex.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\cjk-ko\kotex.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\cjk-ko\kotex.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\cjk-ko\kotex.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\kotex-utf\kotexutf.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\kotex-utf\kotexutf.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\kotex-utf\kotex.cfg
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\kotex-utf\kotex.cfg
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\kotex-utf\kotex.cfg
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\kotex-utf\kotex.cfg
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\kotex-utf\kotexutf.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\kotex-utf\kotexutf.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\kotex-utf\kotexutf.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\kotex-utf\kotexutf.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\kotex-utf\kotexutf.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\kotex-utf\kotexutf.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\kotex-utf\kotexutf.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\kotex-utf\kotexutf.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\kotex-utf\kotexutf.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\kotex-utf\kotexutf.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\kotex-utf\kotexutf.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\plain\kotex-plain\kotexutf-core.tex
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\kotex-utf\hfontspec.default
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\kotex-utf\lucenc.dfu
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\kotex-utf\lucenc.dfu
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\kotex-utf\lucenc.dfu
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\kotex-utf\lucenc.dfu
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\cjk-ko\kolabels-utf.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\cjk-ko\kolabels-utf.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\cjk-ko\kolabels-utf.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\cjk-ko\kolabels-utf.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\cjk-ko\kolabels-utf.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\cjk-ko\kolabels-utf.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\cjk-ko\kolabels-utf.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\cjk-ko\kolabels-utf.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\cjk-ko\kolabels-utf.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\cjk-ko\kolabels-utf.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\cjk-ko\kolabels-utf.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT .\doe.aux
-INPUT doe.aux
-INPUT doe.aux
-OUTPUT doe.aux
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\nanumtype1\lucnanummj.fd
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\nanumtype1\lucnanummj.fd
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\nanumtype1\lucnanummj.fd
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\nanumtype1\lucnanummj.fd
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-OUTPUT doe.pdf
-INPUT C:\Users\raca\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmc2.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmd5.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmc5.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmc9.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmc6.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmc1.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmb9.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmac.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmc8.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmc7.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmb8.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmcd.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmbc.tfm
-INPUT .\surface.jpg
-INPUT .\surface.jpg
+PWD /Users/raca/Desktop/cuop2021/DoE
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt
+INPUT /Users/raca/Desktop/cuop2021/DoE/DoE.tex
+OUTPUT DoE.log
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/article.cls
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/article.cls
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/article.cls
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/article.cls
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/article.cls
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/article.cls
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/article.cls
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/article.cls
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/article.cls
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/article.cls
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/article.cls
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/size10.clo
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/size10.clo
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/size10.clo
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/size10.clo
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amssymb.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amssymb.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amssymb.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amssymb.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amssymb.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amssymb.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amssymb.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amssymb.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amssymb.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amssymb.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amssymb.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cjk-ko/kotex.sty
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cjk-ko/kotex.sty
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cjk-ko/kotex.sty
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cjk-ko/kotex.sty
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cjk-ko/kotex.sty
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cjk-ko/kotex.sty
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cjk-ko/kotex.sty
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cjk-ko/kotex.sty
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cjk-ko/kotex.sty
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cjk-ko/kotex.sty
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cjk-ko/kotex.sty
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kotex-utf/kotexutf.sty
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kotex-utf/kotexutf.sty
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kotex-utf/kotex.cfg
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kotex-utf/kotex.cfg
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kotex-utf/kotex.cfg
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kotex-utf/kotex.cfg
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kotex-utf/kotexutf.sty
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kotex-utf/kotexutf.sty
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kotex-utf/kotexutf.sty
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kotex-utf/kotexutf.sty
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kotex-utf/kotexutf.sty
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kotex-utf/kotexutf.sty
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kotex-utf/kotexutf.sty
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kotex-utf/kotexutf.sty
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kotex-utf/kotexutf.sty
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kotex-utf/kotexutf.sty
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kotex-utf/kotexutf.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/inputenc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/inputenc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/inputenc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/inputenc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/inputenc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/inputenc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/inputenc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/inputenc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/inputenc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/inputenc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/inputenc.sty
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/plain/kotex-plain/kotexutf-core.tex
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kotex-utf/hfontspec.default
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kotex-utf/lucenc.dfu
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kotex-utf/lucenc.dfu
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kotex-utf/lucenc.dfu
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kotex-utf/lucenc.dfu
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cjk-ko/kolabels-utf.sty
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cjk-ko/kolabels-utf.sty
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cjk-ko/kolabels-utf.sty
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cjk-ko/kolabels-utf.sty
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cjk-ko/kolabels-utf.sty
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cjk-ko/kolabels-utf.sty
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cjk-ko/kolabels-utf.sty
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cjk-ko/kolabels-utf.sty
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cjk-ko/kolabels-utf.sty
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cjk-ko/kolabels-utf.sty
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cjk-ko/kolabels-utf.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
+INPUT ./DoE.aux
+INPUT DoE.aux
+INPUT DoE.aux
+OUTPUT DoE.aux
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/nanumtype1/lucnanummj.fd
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/nanumtype1/lucnanummj.fd
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/nanumtype1/lucnanummj.fd
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/nanumtype1/lucnanummj.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr17.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr12.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr8.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr6.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy6.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmex10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsa.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsa.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsa.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsa.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsb.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsb.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsb.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsb.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+OUTPUT DoE.pdf
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr12.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/nanumtype1/nanummjmc2.tfm
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/nanumtype1/nanummjmd5.tfm
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/nanumtype1/nanummjmc5.tfm
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/nanumtype1/nanummjmc9.tfm
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/nanumtype1/nanummjmc6.tfm
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/nanumtype1/nanummjmc1.tfm
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/nanumtype1/nanummjmb9.tfm
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/nanumtype1/nanummjmac.tfm
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/nanumtype1/nanummjmc8.tfm
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/nanumtype1/nanummjmc7.tfm
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/nanumtype1/nanummjmb8.tfm
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/nanumtype1/nanummjmcd.tfm
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/nanumtype1/nanummjmbc.tfm
+INPUT ./surface.jpg
+INPUT ./surface.jpg
 INPUT surface.jpg
-INPUT .\surface.jpg
-INPUT .\surface.jpg
-INPUT .\surface.jpg
-INPUT .\surface.jpg
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmaf.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmb2.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmb3.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmae.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmb5.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmbb.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmb7.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmba.tfm
-INPUT .\fatorial design.jpg
-INPUT .\fatorial design.jpg
+INPUT ./surface.jpg
+INPUT ./surface.jpg
+INPUT ./surface.jpg
+INPUT ./surface.jpg
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/nanumtype1/nanummjmaf.tfm
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/nanumtype1/nanummjmb2.tfm
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/nanumtype1/nanummjmb3.tfm
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/nanumtype1/nanummjmae.tfm
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/nanumtype1/nanummjmb5.tfm
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/nanumtype1/nanummjmbb.tfm
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/nanumtype1/nanummjmb7.tfm
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/nanumtype1/nanummjmba.tfm
+INPUT ./fatorial design.jpg
+INPUT ./fatorial design.jpg
 INPUT fatorial design.jpg
-INPUT .\fatorial design.jpg
-INPUT .\fatorial design.jpg
-INPUT .\fatorial design.jpg
-INPUT .\fatorial design.jpg
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmb4.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmad.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmbd.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmb6.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam5.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmd2.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmc0.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmd6.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmd1.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmd4.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmd3.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmce.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmbf.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmd0.tfm
-INPUT .\fd.jpg
-INPUT .\fd.jpg
+INPUT ./fatorial design.jpg
+INPUT ./fatorial design.jpg
+INPUT ./fatorial design.jpg
+INPUT ./fatorial design.jpg
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/nanumtype1/nanummjmb4.tfm
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/nanumtype1/nanummjmad.tfm
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/nanumtype1/nanummjmbd.tfm
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/nanumtype1/nanummjmb6.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam5.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/nanumtype1/nanummjmd2.tfm
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/nanumtype1/nanummjmc0.tfm
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/nanumtype1/nanummjmd6.tfm
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/nanumtype1/nanummjmd1.tfm
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/nanumtype1/nanummjmd4.tfm
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/nanumtype1/nanummjmd3.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx10.tfm
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/nanumtype1/nanummjmce.tfm
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/nanumtype1/nanummjmbf.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmti10.tfm
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/nanumtype1/nanummjmd0.tfm
+INPUT ./fd.jpg
+INPUT ./fd.jpg
 INPUT fd.jpg
-INPUT .\fd.jpg
-INPUT .\fd.jpg
-INPUT .\fd.jpg
-INPUT .\fd.jpg
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmcc.tfm
-INPUT .\variance.jpg
-INPUT .\variance.jpg
+INPUT ./fd.jpg
+INPUT ./fd.jpg
+INPUT ./fd.jpg
+INPUT ./fd.jpg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/tcrm1000.tfm
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/nanumtype1/nanummjmcc.tfm
+INPUT ./variance.jpg
+INPUT ./variance.jpg
 INPUT variance.jpg
-INPUT .\variance.jpg
-INPUT .\variance.jpg
-INPUT .\variance.jpg
-INPUT .\variance.jpg
-INPUT .\reactionsurfae.jpg
-INPUT .\reactionsurfae.jpg
+INPUT ./variance.jpg
+INPUT ./variance.jpg
+INPUT ./variance.jpg
+INPUT ./variance.jpg
+INPUT ./reactionsurfae.jpg
+INPUT ./reactionsurfae.jpg
 INPUT reactionsurfae.jpg
-INPUT .\reactionsurfae.jpg
-INPUT .\reactionsurfae.jpg
-INPUT .\reactionsurfae.jpg
-INPUT .\reactionsurfae.jpg
-INPUT .\doe.bbl
-INPUT doe.bbl
-INPUT .\doe.bbl
-INPUT doe.bbl
-INPUT doe.aux
-INPUT C:\Users\raca\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
-INPUT C:\Users\raca\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmac.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmac.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmad.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmad.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmae.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmae.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmaf.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmaf.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmb2.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmb2.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmb3.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmb3.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmb4.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmb4.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmb5.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmb5.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmb6.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmb6.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmb7.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmb7.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmb8.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmb8.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmb9.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmb9.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmba.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmba.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmbb.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmbb.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmbc.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmbc.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmbd.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmbd.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmbf.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmbf.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmc0.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmc0.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmc1.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmc1.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmc2.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmc2.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmc5.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmc5.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmc6.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmc6.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmc7.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmc7.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmc8.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmc8.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmc9.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmc9.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmcc.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmcc.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmcd.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmcd.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmce.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmce.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmd0.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmd0.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmd1.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmd1.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmd2.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmd2.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmd3.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmd3.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmd4.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmd4.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmd5.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmd5.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmd6.pfb
-INPUT C:\Users\raca\AppData\Local\Programs\MiKTeX\fonts\type1\public\nanumtype1\nanummjmd6.pfb
+INPUT ./reactionsurfae.jpg
+INPUT ./reactionsurfae.jpg
+INPUT ./reactionsurfae.jpg
+INPUT ./reactionsurfae.jpg
+INPUT ./DoE.bbl
+INPUT DoE.bbl
+INPUT ./DoE.bbl
+INPUT DoE.bbl
+INPUT DoE.aux
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmac.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmac.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmad.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmad.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmae.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmae.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmaf.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmaf.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmb2.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmb2.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmb3.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmb3.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmb4.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmb4.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmb5.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmb5.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmb6.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmb6.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmb7.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmb7.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmb8.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmb8.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmb9.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmb9.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmba.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmba.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmbb.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmbb.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmbc.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmbc.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmbd.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmbd.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmbf.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmbf.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmc0.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmc0.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmc1.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmc1.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmc2.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmc2.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmc5.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmc5.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmc6.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmc6.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmc7.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmc7.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmc8.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmc8.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmc9.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmc9.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmcc.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmcc.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmcd.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmcd.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmce.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmce.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmd0.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmd0.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmd1.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmd1.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmd2.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmd2.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmd3.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmd3.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmd4.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmd4.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmd5.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmd5.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmd6.pfb
+INPUT /Users/raca/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/nanumtype1/nanummjmd6.pfb
